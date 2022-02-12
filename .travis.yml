@@ -1,5 +1,5 @@
-language: 'generic'
-sugo: required
+language: generic
+sudo: required
 services:
   - docker
 
